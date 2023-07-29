@@ -1,5 +1,6 @@
 # credit_card_fraud_detection
 fraud detection in credit cards using data science and machine learning algorithms
+Note: Download the Dataset from kaggle. //creditcard.
 Overview
 
 This project aims to build a credit card fraud detection system using data science and machine learning algorithms. The dataset used for training and evaluation is obtained from Kaggle, containing anonymized credit card transaction data, including both fraudulent and legitimate transactions. The main goal is to develop models that can effectively identify fraudulent transactions and enhance security for credit card users.
